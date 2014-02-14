@@ -1,0 +1,15 @@
+     13  cd Lab03
+     13  ./Lab03.out
+     15  g++ crosserL03.cpp -o Lab03.out
+     17  g++ crosserP01.cpp -o P01.out
+     18  g++ Lab05.cpp -o Lab05.out
+     18  vi +84 project01a.cpp
+     19  logout
+     21  g++ project01.cpp -o P01.out
+     26  cd ..
+     26  g++ project01a.cpp -o P01.out
+     35  ./test.out
+     39  g++ crosserP1.cpp -o test.out
+     39  ./P01.out
+     52  vi crosserP1.cpp
+     99  ls
